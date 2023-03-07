@@ -1,0 +1,17 @@
+body{
+    background-color: #07080d;
+}
+main h1{
+    font-size: 120px;
+    font-style: italic;
+    font-weight: bold;
+}
+header{
+    position: fixed;
+    width: 100%;
+}
+@media (max-widht:950px){
+    main h1{
+        font-size: 60px;
+    }
+}
